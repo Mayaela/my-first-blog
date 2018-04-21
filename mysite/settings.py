@@ -25,7 +25,7 @@ SECRET_KEY = 'v^v!f@ujlq#5yxuztr0(b3lzc54m(d#3k18k0t+cev5g)ro!pq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<mayaela>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mayaela.pythonanywhere.com']
 
 
 # Application definition
